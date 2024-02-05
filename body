@@ -1,11 +1,10 @@
 body parts go here:
 
+color: carmel
 -upper body:
-left leg
-right leg
+left leg  :100%
+right leg :100%
 
 -lower body:
-left arm
-right arm
-
-color: carmel
+left arm  :200%
+right arm :200%
